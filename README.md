@@ -1,2 +1,2 @@
-# tensorflow
+# tensorflow study notebooks
 Git test
